@@ -1,4 +1,4 @@
-# 🩺 Design of Explainable AI Heart Disease and Diabetes Prediction
+# Design of Explainable AI Heart Disease and Diabetes Prediction
 
 ## Project Overview
 
