@@ -95,7 +95,7 @@ To improve model transparency and interpretability, **SHAP (SHapley Additive Exp
 
 ---
 
-# 📸 Sample Outputs
+# Sample Outputs
 
 * Confusion Matrix
 * ROC Curve
