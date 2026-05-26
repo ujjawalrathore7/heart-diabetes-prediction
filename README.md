@@ -118,10 +118,3 @@ To improve model transparency and interpretability, **SHAP (SHapley Additive Exp
 
 Explainable AI, Heart Disease Prediction, Diabetes Prediction, Machine Learning, SHAP, Random Forest, XGBoost, ANN, Healthcare Analytics, Predictive Modeling.
 
----
-
-# Author
-
-**Ujjwal Rathore**
-MCA Final Year Project
-
